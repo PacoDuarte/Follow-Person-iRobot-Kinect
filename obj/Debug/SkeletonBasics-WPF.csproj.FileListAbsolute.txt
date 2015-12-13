@@ -1,0 +1,31 @@
+C:\Users\Fmartinez\Desktop\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\Fmartinez\Desktop\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Fmartinez\Desktop\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Fmartinez\Desktop\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Fmartinez\Desktop\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Fmartinez\Desktop\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Fmartinez\Desktop\SkeletonBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Fmartinez\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\Fmartinez\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\Fmartinez\Desktop\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\Fmartinez\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Fmartinez\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Fmartinez\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Fmartinez\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Fmartinez\Desktop\University\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Fmartinez\Desktop\University\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Fmartinez\Desktop\University\Robotics_Project\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Fmartinez\Desktop\University\Robotics_Project\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Fmartinez\Desktop\University\Robotics_Project\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\Fmartinez\Desktop\University\Robotics_Project\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Fmartinez\Desktop\University\Robotics_Project\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Fmartinez\Desktop\University\Robotics_Project\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Fmartinez\Desktop\University\Robotics_Project\obj\Debug\MainWindow.baml
+C:\Users\Fmartinez\Desktop\University\Robotics_Project\obj\Debug\MainWindow.g.cs
+C:\Users\Fmartinez\Desktop\University\Robotics_Project\obj\Debug\App.g.cs
+C:\Users\Fmartinez\Desktop\University\Robotics_Project\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\Fmartinez\Desktop\University\Robotics_Project\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\Fmartinez\Desktop\University\Robotics_Project\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\Fmartinez\Desktop\University\Robotics_Project\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Fmartinez\Desktop\Robotics Project\Robotics_Project\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Fmartinez\Desktop\Robotics Project\Robotics_Project\obj\Debug\SkeletonBasics-WPF.pdb
